@@ -19,3 +19,10 @@ This repository analyzes local and global temperature data and compares the temp
 
 The final pdf submission contains a form of the data, analysis of plots and shows an outline of actions taken, which were; tools used at each stage, calculations performed, and considerations made when analysing trends.
 
+
+### FILES
+"Weather Trends_Udacity HW1.pdf" is the final report which accounts for all steps, codes and plots.
+"moving_average_exercise.csv" 
+"results(1).csv" is the resultant CSV file from running the SQL query for New York.
+"results(2).csv" is the resultant CSV file from running the SQL query.
+
